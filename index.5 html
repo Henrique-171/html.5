@@ -1,0 +1,32 @@
+<html>
+<head>
+
+    <meta charset="UTF-8">
+	
+    <title>Página Firefox</title>
+</head>
+<body>
+<h1>Site sobre html</h1>
+</head>
+
+<body>
+ <td>
+          <img width="300" src="html5.png">
+            </td>
+<p>HTML é uma linguagem de Marcação de HiperTexto, tem como função e objetivo de:</p>
+<ul>
+  <li>Estruturar a página web</li>
+  <li>Inserção de conteúdos como imagens e vídeos por meio de hipertextos.</li>
+  <li>Utiliza marcadores (tags) e atributos que definem como o conteúdo deve ser apresentado no navegador.</li>
+</ul>
+<tr colspan="2">
+                <P>HTML - HyperText Markup Language - Linguagem de marcação de HiperTexto criado pelo físico britânico, Tim Berners Lee, é o componente base da web. Isso quer dizer que ele permite a construção de websites e a inserção de novos conteúdos, como imagens e vídeos por meio dos hipertextos.</P>
+            </td>
+        </tr>
+		<tr colspan="2">
+	<td><p>Leia o <a href="url">Manifesto Mozilla</a> para saber ainda mais sobre os valores e princípios que norteiam a prossecução da nossa missão.</p>
+	</td>
+
+</head>
+<body>
+</html>
